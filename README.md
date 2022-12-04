@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GITBIKIRAAJ
 - 👀 I’m a awesome Data scientist, Digital marketing, Stock market
-- 🌱 I’m currently learning Data science and a Digital Marketing Expert
+- 🌱 I’m currently a practioner in Data science and a well Grown Digital Marketing Expert
 - 💞️ I’m looking to collaborate on Big Business
 - 📫 How to reach me - Whatsapp- 7978985641
 
