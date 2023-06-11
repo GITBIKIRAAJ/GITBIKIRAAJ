@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/ccb41b57157c19ed89fec0ce31de1ffbcfc5b1267be406199b7222edd5a0fbbb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a675f5f6a6965734c52496643526566564736395066772e676966)]
+![MasterHead](https://camo.githubusercontent.com/ccb41b57157c19ed89fec0ce31de1ffbcfc5b1267be406199b7222edd5a0fbbb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a675f5f6a6965734c52496643526566564736395066772e676966)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Digital+Marketing+Nija;I+am+a+Data+Science+Practioner)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, This is Biranchi Narayan Maharana</h1>
 <h3 align="center">Innovative Digital Marketer Leveraging Data Science for Marketing Excellence</h3>
