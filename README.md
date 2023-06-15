@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [www.projects.com](www.projects.com)
 
-- 📝 I regularly write articles on [www.blogs.com](www.blogs.com)
+- 📝 I regularly write articles on https://medium.com/@bikiraaj100
 
 - 💬 Ask me about **Digital Marketing, Data Analysis, Data Science**
 
